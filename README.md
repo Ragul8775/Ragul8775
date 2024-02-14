@@ -17,6 +17,9 @@
 <br>
 <br>
 
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
+  </p>
 <div id="badges" align = "center">
 
   <a href="https://www.linkedin.com/in/raghul-sankar-2445a9203/">
@@ -29,9 +32,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   
-  <p align='center'>
-    <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
-    </p>
   
   
   <a href="https://www.hackerrank.com/rb7439?hr_r=1">
