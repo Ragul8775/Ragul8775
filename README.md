@@ -87,8 +87,8 @@
 <a href="https://github.com/Ragul8775/Text-Analysis-Project-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=Text-Analysis-Project&theme=transparent" />
 </a>
-<a href="https://github.com/Ragul8775/Placement_portal_client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=Placement_portal_client&theme=transparent" />
+<a href="https://github.com/Ragul8775/SummWize_api-GPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=SummWize_api-GPT&theme=transparent" />
 </a>
 <a href="https://github.com/Ragul8775/CircleUp_socialMedia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=CircleUp_socialMedia&theme=transparent" />
