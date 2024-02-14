@@ -73,9 +73,9 @@
 ## 📈 Profile Stats
 <div align = "center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ragul8775&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/ragul8775/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ragul8775&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragul8775&layout=compact&theme=transparent&hide_border=true)](https://github.com/ragul8775/github-readme-stats)
 
-[![Raghuls GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul8775&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Ragul8775)
+<!-- [![Raghuls GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul8775&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Ragul8775) -->
 </p>
   </div>
 
