@@ -40,6 +40,19 @@
   <a href="https://www.codechef.com/users/rb7439">
     <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
   </a>
+  <a href="https://www.codewars.com/users/Ragul8775">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codechef Badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/Ragul8775">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Codechef Badge"/>
+  </a>
+  <a href="https://leetcode.com/Rb7439/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Codechef Badge"/>
+  </a>
+  <a href="https://leetcode.com/Rb7439/">
+    <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Codechef Badge"/>
+  </a>
+
 </div>
 
 <br>
