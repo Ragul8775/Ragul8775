@@ -1,6 +1,6 @@
 <h1> Hey, I’m Raghul </h1>
 
-<img src="C:\Users\Admin\OneDrive\Desktop\BlackCoffer\7118756_3426523.svg" width="32%" alt="vector" align="right"> 
+<img src="./Vector.svg" width="32%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Coder+💻;)](https://git.io/typing-svg)
 
