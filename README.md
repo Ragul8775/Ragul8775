@@ -1,6 +1,6 @@
 <h1> Hey, I’m Raghul </h1>
 
-<img src="./Vector.svg" width="32%" alt="vector" align="right"> 
+<img src="C:\Users\Admin\OneDrive\Desktop\BlackCoffer\7118756_3426523.svg" width="32%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Coder+💻;)](https://git.io/typing-svg)
 
@@ -29,6 +29,9 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   
+  <p align='center'>
+    <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
+    </p>
   
   
   <a href="https://www.hackerrank.com/rb7439?hr_r=1">
@@ -40,9 +43,6 @@
 </div>
 
 <br>
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
-  </p>
 
 ## 👩‍💻 Tech Stack
 ### Languages and tools I work with
@@ -51,7 +51,7 @@
 <img height="25" alt="html" src="https://camo.githubusercontent.com/7f569c07c7faab73e2e9bc19b8620036fb2843b7a912c16c3c3c8bc5b11e3ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
 <img height="25" alt="css" src="https://camo.githubusercontent.com/6e2c6bf10e3c94fcbd483162117195d2ea9f6f37ce8afd25266df9a526caca58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"> 
 <img height="25" alt="js" src="https://camo.githubusercontent.com/11b6493dc397580093fc3ddfd02ef5f33ca6251cb21dcd7d1cd1cca6638fe681/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d706c6173746963266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
+<img height="25" alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
 <img height="25" alt="TailwindCss" src="https://camo.githubusercontent.com/3b6552284da2b1078dcee4f40e800c8b5b07344fdc748b25ba3ce90728275ac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642532304353532d3036423644343f7374796c653d666c61742d706c6173746963266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d7768697465">
 <img height="25" alt="MongoDB" src="https://camo.githubusercontent.com/b56370dbe8219a32284518400d50b2f4d1e5755cc17433a9a93bdb227fab49d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3437413234383f7374796c653d666c61742d706c6173746963266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
 <img height="25" alt="NodeJs" src="https://camo.githubusercontent.com/1e03ae0cde613d2a5b05e46b25695df444ef5880629c6c54bbb4607f9db1a4da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666c61742d706c6173746963266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465">
