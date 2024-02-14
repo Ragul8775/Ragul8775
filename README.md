@@ -40,6 +40,9 @@
 </div>
 
 <br>
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
+  </p>
 
 ## 👩‍💻 Tech Stack
 ### Languages and tools I work with
@@ -66,9 +69,6 @@
 
 </div>
 
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
-  </p>
 
 ## 📈 Profile Stats
 <div align = "center">
@@ -82,15 +82,15 @@
 ## 🔝 Top Repositories
 <div align = "center">
 <a href="https://github.com/Ragul8775/Placement_portal_client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Book-Recommendation&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=Placement_portal_client&theme=transparent" />
 </a>
 <a href="https://github.com/Ragul8775/Text-Analysis-Project-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Stock-Market-Advisor&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=Text-Analysis-Project&theme=transparent" />
 </a>
 <a href="https://github.com/Ragul8775/Placement_portal_client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Code-Translator&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=Placement_portal_client&theme=transparent" />
 </a>
 <a href="https://github.com/Ragul8775/CircleUp_socialMedia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=CircleUp_socialMedia&theme=transparent" />
 </a>
 </div>
