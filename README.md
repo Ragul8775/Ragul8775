@@ -1,6 +1,6 @@
 <h1> Hey, I’m Raghul </h1>
 
-<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
+<img src="C:\Users\Admin\OneDrive\Desktop\BlackCoffer\7118756_3426523.svg" width="32%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Coder+💻;)](https://git.io/typing-svg)
 
@@ -31,12 +31,12 @@
   
   
   
- <!--- <a href="https://www.hackerrank.com/rb7439?hr_r=1">
+  <a href="https://www.hackerrank.com/rb7439?hr_r=1">
     <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
   <a href="https://www.codechef.com/users/rb7439">
     <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-  </a> --->
+  </a>
 </div>
 
 <br>
@@ -61,50 +61,36 @@
 <img height="25" alt="Java" src="https://camo.githubusercontent.com/26e74d6ef4bb4726fc8f8a6b3d4136376d691ecf85c8d3b464bfbf4259e5698d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
 <img height="25" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"> 
 <img height="25" alt="VScode" src="https://camo.githubusercontent.com/14e82cd0f0581201df984f6832c9f061700e25c5060169d7b2b0428ca053fabc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d706c6173746963266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465"> 
-<img height="25" alt="npm" src="<img height="25" alt="VScode" src="https://camo.githubusercontent.com/14e82cd0f0581201df984f6832c9f061700e25c5060169d7b2b0428ca053fabc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d706c6173746963266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465"> 
-<img height="25" alt="XAMpp" src="<img height="25" alt="VScode" src="https://camo.githubusercontent.com/8669e5d8ee56a639b7ce59493bdc40b68297d7761221c5afced3c17f05d934d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d58414d50502d4642374132343f7374796c653d666c61742d706c6173746963266c6f676f3d78616d7070266c6f676f436f6c6f723d7768697465"> 
-"> 
+
+<img height="25" alt="VScode" src="https://camo.githubusercontent.com/8669e5d8ee56a639b7ce59493bdc40b68297d7761221c5afced3c17f05d934d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d58414d50502d4642374132343f7374796c653d666c61742d706c6173746963266c6f676f3d78616d7070266c6f676f436f6c6f723d7768697465"> 
+
 </div>
 
-### Python libraries I expertise in
-![Streamlit](https://img.shields.io/badge/Streamlit-royalblue.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-blue.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-purple.svg?style=for-the-badge&logo=PyPI&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-red.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-darkpink.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-teal.svg?style=for-the-badge&logo=Sympy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-coral.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-grey.svg?style=for-the-badge&logo=NLTK&logoColor=white)
-
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
+  </p>
 
 ## 📈 Profile Stats
 <div align = "center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ragul8775&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ragul8775&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/ragul8775/github-readme-stats)
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul8775&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
+[![Raghuls GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul8775&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Ragul8775)
 </p>
   </div>
 
 ## 🔝 Top Repositories
 <div align = "center">
-<a href="https://github.com/Annarhysa/Book-Recommendation">
+<a href="https://github.com/Ragul8775/Placement_portal_client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Book-Recommendation&theme=transparent" />
 </a>
-<a href="https://github.com/Annarhysa/Stock-Market-Advisor">
+<a href="https://github.com/Ragul8775/Text-Analysis-Project-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Stock-Market-Advisor&theme=transparent" />
 </a>
-<a href="https://github.com/Annarhysa/Code-Translator">
+<a href="https://github.com/Ragul8775/Placement_portal_client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Code-Translator&theme=transparent" />
 </a>
-<a href="https://github.com/Annarhysa/CareerWise">
+<a href="https://github.com/Ragul8775/CircleUp_socialMedia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
 </a>
 </div>
