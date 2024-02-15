@@ -10,7 +10,7 @@
   🤖 Currently practicing TypeScript and Next.js for full-stack development.<br>
   🫂 Looking for collaboration on full-stack projects, eager to bring ideas to life through code.<br>
   📖 Seeking opportunities to work with startups, where I can contribute and grow with dynamic teams.<br>
-  📫 [your email here] <br>
+  📫 Ragulsankar2711@gmail.com <br>
   🕸️ <a href="[your portfolio link]">My Portfolio</a>
 </div>
 <br>
