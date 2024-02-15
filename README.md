@@ -2,7 +2,7 @@
 
 <img src="./Vector.svg" width="32%" alt="vector" align="right"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👨🏻‍💻;Coder+💻;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Ragul8775&style=flat-square&color=blue" alt="Profile views"/>
 <div align="left">
