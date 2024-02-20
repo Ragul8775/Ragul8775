@@ -52,6 +52,7 @@
   <a href="https://leetcode.com/Rb7439/">
     <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Codechef Badge"/>
   </a>
+  <a href="https://app.daily.dev/raghul2728"><img src="https://api.daily.dev/devcards/v2/JGfARZQnUBS7NGQVNrCNe.png?r=x21" width="356" alt="Raghul's Dev Card"/></a>
 
 </div>
 
