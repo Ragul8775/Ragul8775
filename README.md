@@ -11,7 +11,7 @@
   🫂 Looking for collaboration on full-stack projects, eager to bring ideas to life through code.<br>
   📖 Seeking opportunities to work with startups, where I can contribute and grow with dynamic teams.<br>
   📫 Ragulsankar2711@gmail.com <br>
-  🕸️ <a href="[your portfolio link]">My Portfolio</a>
+  <!-- 🕸️ <a href="[your portfolio link]">My Portfolio</a> -->
 </div>
 <br>
 <br>
