@@ -1,12 +1,11 @@
 <h1> Hey, I’m Raghul </h1>
 
-<img src="./Vector.svg" width="32%" alt="vector" align="right">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👨🏻‍💻;Coder+💻;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👨🏻‍💻;Coder+💻;)](https://git.io/typing-svg)
 
 <br>
-<br>
-<br>
+
+[![](https://visitcount.itsvg.in/api?id=ragul8775&icon=8&color=2)](https://visitcount.itsvg.in)
+
 <br>
 
 # 💫 About Me:
@@ -69,11 +68,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ragul8775&icon=8&color=2)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 💰 You can help me by Donating
 
