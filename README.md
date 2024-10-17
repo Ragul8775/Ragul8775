@@ -1,3 +1,11 @@
+<h1> Hey, I’m Raghul </h1>
+
+<img src="./Vector.svg" width="32%" alt="vector" align="right">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👨🏻‍💻;Coder+💻;)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Ragul8775&style=flat-square&color=blue" alt="Profile views"/>
+
 # 💫 About Me:
 
 👀 I am a Frontend and Backend Developer with a passion for building scalable web applications.<br>🤖 Currently practicing Solana Rust Development and working at Merkle Labs as a Blockchain Developer.<br>🫂 Looking for collaboration on full-stack and Blockchain Projects, eager to bring ideas to life through code.<br>📖 Seeking opportunities to work with startups, where I can contribute and grow with dynamic teams.<br>📫 Reach me at: Ragulsankar2711@gmail.com
@@ -41,7 +49,6 @@
   <a href="https://leetcode.com/Rb7439/">
     <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Codechef Badge"/>
   </a>
-
 
 </div>
 
