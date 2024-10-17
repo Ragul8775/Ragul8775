@@ -1,21 +1,10 @@
-<h1> Hey, I’m Raghul </h1>
+# 💫 About Me:
 
-<img src="./Vector.svg" width="32%" alt="vector" align="right"> 
+👀 I am a Frontend and Backend Developer with a passion for building scalable web applications.<br>🤖 Currently practicing Solana Rust Development and working at Merkle Labs as a Blockchain Developer.<br>🫂 Looking for collaboration on full-stack and Blockchain Projects, eager to bring ideas to life through code.<br>📖 Seeking opportunities to work with startups, where I can contribute and grow with dynamic teams.<br>📫 Reach me at: Ragulsankar2711@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👨🏻‍💻;Coder+💻;)](https://git.io/typing-svg)
+## 🌐 Socials:
 
-<img src="https://komarev.com/ghpvc/?username=Ragul8775&style=flat-square&color=blue" alt="Profile views"/>
-<div align="left">
-  👀 I am a Frontend and Backend Developer with a passion for building scalable web applications.<br>
-  🤖 Currently practicing TypeScript and Next.js for full-stack development.<br>
-  🫂 Looking for collaboration on full-stack projects, eager to bring ideas to life through code.<br>
-  📖 Seeking opportunities to work with startups, where I can contribute and grow with dynamic teams.<br>
-  📫 Ragulsankar2711@gmail.com <br>
-  <!-- 🕸️ <a href="[your portfolio link]">My Portfolio</a> -->
-</div>
-<br>
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghul-sankar-2445a9203) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ragul-sankar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RagulSankar11) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Ragul-Sankar)
 
 <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=ragul8775&data=followers,repositories,stars,commits'>
@@ -52,59 +41,32 @@
   <a href="https://leetcode.com/Rb7439/">
     <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Codechef Badge"/>
   </a>
- 
+
 
 </div>
 
 <br>
 
-## 👩‍💻 Tech Stack
-### Languages and tools I work with
-<div>
-<img height="25" alt="Reactjs" src="https://camo.githubusercontent.com/ae9c74c9618701b1c96ee0b165fe0cdd5a17fc4ae5a908fd150b37e10540e0a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303f266c6f676f3d5265616374">
-<img height="25" alt="html" src="https://camo.githubusercontent.com/7f569c07c7faab73e2e9bc19b8620036fb2843b7a912c16c3c3c8bc5b11e3ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="css" src="https://camo.githubusercontent.com/6e2c6bf10e3c94fcbd483162117195d2ea9f6f37ce8afd25266df9a526caca58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"> 
-<img height="25" alt="js" src="https://camo.githubusercontent.com/11b6493dc397580093fc3ddfd02ef5f33ca6251cb21dcd7d1cd1cca6638fe681/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d706c6173746963266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
-<img height="25" alt="TailwindCss" src="https://camo.githubusercontent.com/3b6552284da2b1078dcee4f40e800c8b5b07344fdc748b25ba3ce90728275ac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642532304353532d3036423644343f7374796c653d666c61742d706c6173746963266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="MongoDB" src="https://camo.githubusercontent.com/b56370dbe8219a32284518400d50b2f4d1e5755cc17433a9a93bdb227fab49d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3437413234383f7374796c653d666c61742d706c6173746963266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="NodeJs" src="https://camo.githubusercontent.com/1e03ae0cde613d2a5b05e46b25695df444ef5880629c6c54bbb4607f9db1a4da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666c61742d706c6173746963266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465">
-<img width="75" alt="git" src="https://camo.githubusercontent.com/492c6aa2fbde3b0d23c686dc315c93ed5c349fdb5f098227ce6ed166c392094b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
-<img width="75" alt="postman" src="https://camo.githubusercontent.com/8bc77ae2c6ec0a97c7692ec54d53c49d3c4637e9c64ee63f7b45cf14a50e8177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="25" alt="cpp" src="https://camo.githubusercontent.com/e174c793a1889f33cedc651bb2b43c60045e4b5e2053443fcf09f3c605ca66a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532422532422d3030353939433f7374796c653d666c61742d706c6173746963266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="sql" src="https://camo.githubusercontent.com/c1c08eb7625abe1a813e5ad05a94891aa127a37e0ce126b59ecda28233effdac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="c" src="https://camo.githubusercontent.com/2ea1dd7e77121f342730a87d697e8c8dc944422683c36727845e46aade1ef8a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d4138423943433f7374796c653d666c61742d706c6173746963266c6f676f3d63266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="Java" src="https://camo.githubusercontent.com/26e74d6ef4bb4726fc8f8a6b3d4136376d691ecf85c8d3b464bfbf4259e5698d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
-<img height="25" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"> 
-<img height="25" alt="VScode" src="https://camo.githubusercontent.com/14e82cd0f0581201df984f6832c9f061700e25c5060169d7b2b0428ca053fabc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d706c6173746963266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465"> 
+# 💻 Tech Stack:
 
-<img height="25" alt="VScode" src="https://camo.githubusercontent.com/8669e5d8ee56a639b7ce59493bdc40b68297d7761221c5afced3c17f05d934d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d58414d50502d4642374132343f7374796c653d666c61742d706c6173746963266c6f676f3d78616d7070266c6f676f436f6c6f723d7768697465"> 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
+# 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=ragul8775&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ragul8775&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragul8775&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📈 Profile Stats
-<div align = "center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ragul8775&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragul8775&layout=compact&theme=transparent&hide_border=true)](https://github.com/ragul8775/github-readme-stats)
+### ✍️ Random Dev Quote
 
-<!-- [![Raghuls GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul8775&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Ragul8775) -->
-</p>
-  </div>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-## 🔝 Top Repositories
-<div align = "center">
-<a href="https://github.com/Ragul8775/Placement_portal_client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=Placement_portal_client&theme=transparent" />
-</a>
-<a href="https://github.com/Ragul8775/Text-Analysis-Project-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=Text-Analysis-Project-&theme=transparent" />
-</a>
-<a href="https://github.com/Ragul8775/SummWize_api-GPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=SummWize_api-GPT&theme=transparent" />
-</a>
-<a href="https://github.com/Ragul8775/CircleUp_socialMedia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragul8775&repo=CircleUp_socialMedia&theme=transparent" />
-</a>
-</div>
+---
+
+[![](https://visitcount.itsvg.in/api?id=ragul8775&icon=8&color=2)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raghul2728)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
