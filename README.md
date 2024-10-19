@@ -1,6 +1,6 @@
 <h1> Hey, I’m Raghul </h1>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👨🏻‍💻;Coder+💻;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👨🏻‍💻;Blockchain+Developer+⛓;Coder+💻;)](https://git.io/typing-svg)
 
 <br>
 
